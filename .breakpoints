@@ -1,0 +1,32 @@
+{
+  "files": {
+    "index.js": [
+      {
+        "id": "95af06cd-a055-44de-9379-0ff78398fa2d",
+        "line": 1,
+        "version": 261,
+        "index": 0
+      },
+      {
+        "id": "b17181ba-ec2b-4f79-ac96-9994eaf35b55",
+        "line": 105,
+        "version": 261,
+        "index": 2764
+      },
+      {
+        "id": "581581e2-e8d0-42e6-8ed2-31ff1fa9552b",
+        "line": 105,
+        "version": 261,
+        "index": 2764
+      }
+    ],
+    "نن.md": [
+      {
+        "id": "b862ee47-b452-4290-828f-9da5b628500e",
+        "line": 1,
+        "version": 12,
+        "index": 0
+      }
+    ]
+  }
+}
